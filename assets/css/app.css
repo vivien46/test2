@@ -1,2 +1,3 @@
 @import url(global.css);
-@import url(carrousel.css);
+@import url(./components/carrerouge.css);
+@import url(./components/rectanglebleu.css)
