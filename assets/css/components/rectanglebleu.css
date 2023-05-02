@@ -1,0 +1,11 @@
+.rectangleBleu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid red;
+}
