@@ -1,0 +1,8 @@
+.carreRouge{
+    width: 150px;
+    height: 150px;
+    border: 1px solid blue;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
