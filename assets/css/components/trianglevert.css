@@ -1,0 +1,21 @@
+.trianglevert {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 100px 173.2px 100px; /* Taille pour créer un triangle */
+    border-color: transparent transparent green transparent; /* Bordure inférieure verte */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px; /* Alignement vertical avec un espace au-dessus */
+    position: relative; /* Nécessaire pour positionner le paragraphe par rapport à cette div */
+}
+
+.trianglevert p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 200px;
+}
